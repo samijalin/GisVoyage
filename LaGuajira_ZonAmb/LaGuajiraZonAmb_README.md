@@ -12,4 +12,4 @@ Este proyecto presenta un análisis de zonificación ambiental del Departamento 
 
 ## 📂 Archivos
 - `ZONIFICACION_AMBIENTAL.pdf` → Documento con la descripción del proyecto
-- `mapa_zonificacion.png` → Visualización del mapa resultante
+- `zonificacion_LG.png` → Visualización del mapa resultante
