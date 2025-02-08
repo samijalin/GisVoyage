@@ -14,4 +14,4 @@ Este proyecto presenta un análisis de zonificación ambiental del Departamento 
 - `ZONIFICACION_AMBIENTAL.pdf` → Documento con la descripción del proyecto
 - `zonificacion_LG.png` → Visualización del mapa resultante
   
-![Mapa de Zonificación Ambiental](LaGuajira_ZonAmb/zonificacion_LG.jpg)
+![Mapa de Zonificación Ambiental](LaGuajira_ZonAmb/zonificacion%LG.jpg)
