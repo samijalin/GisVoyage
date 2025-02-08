@@ -15,6 +15,9 @@ Welcome to my GIS portfolio! Here, I showcase my work in Geographic Information 
 🔹 Visualization: Map-based products for analysis and decision-making
 
 ## Projects
+### Cartography 
+  🗺️ Zonificación Ambiental - La Guajira
+  
 🚧 More projects coming soon! 🚧
 
 ## Connect with Me
