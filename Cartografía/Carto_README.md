@@ -1,8 +1,8 @@
-#🗺️ Exploraciones Cartográficas
+# 🗺️ Exploraciones Cartográficas
 
 ¡Bienvenido a mi colección de mapas! Aquí encontrarás una variedad de representaciones gráficas que he creado, cada una con su propia historia y propósito.
 
-##Índice
+## Índice
 1. Introducción
 2. Contenido de la Carpeta
 3. Tecnologías y Herramientas Utilizadas
