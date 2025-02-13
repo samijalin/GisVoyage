@@ -18,7 +18,7 @@ Esta carpeta reúne una serie de mapas que he desarrollado para diversos fines, 
 ### a. Distribución de Necesidades Básicas Insatisfechas  en La Guajira:
 Muestra la proporción de NBI en los municipios de La Guajira, según la información publicada por el DANE durante el censo nacional del 2018.
 
-![NDB_LG_2018](GisVoyage/Cartografía/NBI_LG.jpg)
+![NDB_LG_2018](Cartografía/NBILG.jpg)
 
 
 ### Mapa de Población Mundial: Una visualización de la densidad poblacional a nivel global.
