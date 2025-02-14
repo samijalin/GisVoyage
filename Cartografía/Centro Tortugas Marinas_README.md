@@ -21,18 +21,18 @@ La capas utilizadas como insumos geograficos se obtuvieron de bases de datos geo
 ## Criterios de selección: 
 La zona para la construcción del centro de conservación y monitoreo de tortugas marinas 
 debe cumplir con las siguientes condiciones:
-  a. Debe tener registros de avistamiento y sitios de anidación de tortugas marinas en 
-     la costa a mínimo 1 km. 
-  b. No estar dentro de un PNN o una reserva forestal. 
-  c. Tener una temperatura mayor a los 21°C y una altura no mayor a los 1000 
+1. Debe tener registros de avistamiento y sitios de anidación de tortugas marinas en 
+     la costa a mínimo 1 km.
+2. No estar dentro de un PNN o una reserva forestal. 
+3. Tener una temperatura mayor a los 21°C y una altura no mayor a los 1000 
      m.s.n.m. 
-  d. Geomorfología de Playas que no estén en  en erosión. 
-  e. No puede ubicarse en un área residencial, de infraestructura y transporte, ni de 
+4. Geomorfología de Playas que no estén en  en erosión. 
+5. No puede ubicarse en un área residencial, de infraestructura y transporte, ni de 
      explotación para construcción, tampoco en una zona portuaria (Mínimo a 1 Km) 
-  f. Debe ser un área con una densidad poblacional de 2,5 a 73,9 personas por Km 
+6. Debe ser un área con una densidad poblacional de 2,5 a 73,9 personas por Km 
      (DP_Km) 
-  g. No estar a menos de 200 m de un ecosistema de manglar, ni a menos de 500 m de la línea de costa.
-  h. Elegir la zona de mayor tamaño,que cumplan los criterios anteriores. 
+7. No estar a menos de 200 m de un ecosistema de manglar, ni a menos de 500 m de la línea de costa.
+8. Elegir la zona de mayor tamaño,que cumplan los criterios anteriores. 
 
 ## Modelo de geoprocesamiento
 
