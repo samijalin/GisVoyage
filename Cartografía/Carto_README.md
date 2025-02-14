@@ -21,7 +21,7 @@ Muestra la proporción de NBI en los municipios de La Guajira, según la informa
 ![NDB_LG_2018](https://github.com/samijalin/GisVoyage/blob/main/Cartograf%C3%ADa/NBILG.jpg)
 
 ### b. Mapa del área para la construcción de un centro de conservación de tortugas marinas a partir de la automatización de procedimientos con la herramient Model Builder de ArcMap.
-
+![Mapa-SeaTurtles](https://github.com/samijalin/GisVoyage/blob/main/Cartograf%C3%ADa/SeaTurtles.jpg)
 
 ### Mapa de Población Mundial: Una visualización de la densidad poblacional a nivel global.
 ### Rutas de Migración de Aves:
