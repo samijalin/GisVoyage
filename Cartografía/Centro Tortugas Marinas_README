@@ -5,16 +5,18 @@
 - Implementar herramientas de automatización de procesos GIS para la identificación del área optima de interes.
 
 ## Insumos: 
-1. Registros de avistamientos de tortugas marinas y sitios de anidación.
-2. Ecosistemas marinos (manglares, arrecifes de coral, pastos marinos, 
-lagunas). 
-3. Estado de las playas (erosión costera) 
-4. Información sobre sitios poblados  
-6. Usos del suelo 
-7. Ubicación de áreas protegidas 
-8. Zonas portuarias  
-9. Zonas climáticas o de pisos térmicos 
-10. Geomorfología de la costa (roca, lodo, plata, etc.). 
+La capas utilizadas como insumos geograficos se obtuvieron de bases de datos geográficos de uso publico y de caracter oficial, es decir, producidos por entidades del estado o instituciones cientificas con el fin de garantizar la veracidad de la información primaria.
+
+1. Registros de avistamientos de tortugas marinas y sitios de anidación.Fuente: Homepage - UNEP-WCMC (unep-wcmc.org) y siam.invemar.org.coinformacion-geografica 
+2. Ecosistemas marinos (manglares, arrecifes de coral, pastos marinos, lagunas). Fuente: Siam (invemar.org.co)  
+3. Estado de las playas (erosión costera).Fuente: http://geonodesiam.invemar.org.co/layers/geonode%3Aerosion_2 
+4. Información sobre sitios poblados.Fuente: www.colombiaenmapas.gov.co  
+6. Usos del suelo.Fuente: www.colombiaenmapas.gov.co
+7. Ubicación de áreas protegidas. Fuente: www.colombiaenmapas.gov.co 
+8. Zonas portuarias: Fuente: www.colombiaenmapas.gov.co
+9. Zonas climáticas o de pisos térmicos: Se construyó a partir de datos de temperatura, altura y clima para cada municipio 
+   del Magdalena.  
+10. Geomorfología de la costa (roca, lodo, plata, etc.): Fuente:www.colombiaenmapas.gov.co
 
 ## Criterios de selección: 
 La zona para la construcción del centro de conservación y monitoreo de tortugas marinas 
@@ -34,7 +36,7 @@ debe cumplir con las siguientes condiciones:
 
 ## Modelo de geoprocesamiento
 
-![Modelo-ModelBuilder]()
+![Modelo-ModelBuilder](https://github.com/samijalin/GisVoyage/blob/main/Cartograf%C3%ADa/TortugasMarinas_ModelBuilder.jpg)
 
 
 
