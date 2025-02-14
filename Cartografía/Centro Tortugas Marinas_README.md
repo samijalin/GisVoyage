@@ -7,7 +7,7 @@
 ## Insumos: 
 La capas utilizadas como insumos geograficos se obtuvieron de bases de datos geográficos de uso publico y de caracter oficial, es decir, producidos por entidades del estado o instituciones cientificas con el fin de garantizar la veracidad de la información primaria.
 
-1. Registros de avistamientos de tortugas marinas y sitios de anidación.Fuente: Homepage - UNEP-WCMC (unep-wcmc.org) y siam.invemar.org.coinformacion-geografica 
+1. Registros de avistamientos de tortugas marinas y sitios de anidación.Fuente: Homepage - UNEP-WCMC(unep-wcmc.org) y siam.invemar.org.coinformacion-geografica 
 2. Ecosistemas marinos (manglares, arrecifes de coral, pastos marinos, lagunas). Fuente: Siam (invemar.org.co)  
 3. Estado de las playas (erosión costera).Fuente: http://geonodesiam.invemar.org.co/layers/geonode%3Aerosion_2 
 4. Información sobre sitios poblados.Fuente: www.colombiaenmapas.gov.co  
