@@ -1,1 +1,40 @@
+# Selección de Áreas Óptimas para un Centro de Conservación de Tortugas Marinas 🐢🌍
+
+## Objetivo:  
+- Definir las áreas potenciales para la Construcción de un centro de conservación de tortugas marinas en el departamento del Magdalena, Colombia.
+- Implementar herramientas de automatización de procesos GIS para la identificación del área optima de interes.
+
+## Insumos: 
+1. Registros de avistamientos de tortugas marinas y sitios de anidación.
+2. Ecosistemas marinos (manglares, arrecifes de coral, pastos marinos, 
+lagunas). 
+3. Estado de las playas (erosión costera) 
+4. Información sobre sitios poblados  
+6. Usos del suelo 
+7. Ubicación de áreas protegidas 
+8. Zonas portuarias  
+9. Zonas climáticas o de pisos térmicos 
+10. Geomorfología de la costa (roca, lodo, plata, etc.). 
+
+## Criterios de selección: 
+La zona para la construcción del centro de conservación y monitoreo de tortugas marinas 
+debe cumplir con las siguientes condiciones:
+  a. Debe tener registros de avistamiento y sitios de anidación de tortugas marinas en 
+     la costa a mínimo 1 km. 
+  b. No estar dentro de un PNN o una reserva forestal. 
+  c. Tener una temperatura mayor a los 21°C y una altura no mayor a los 1000 
+     m.s.n.m. 
+  d. Geomorfología de Playas que no estén en  en erosión. 
+  e. No puede ubicarse en un área residencial, de infraestructura y transporte, ni de 
+     explotación para construcción, tampoco en una zona portuaria (Mínimo a 1 Km) 
+  f. Debe ser un área con una densidad poblacional de 2,5 a 73,9 personas por Km 
+     (DP_Km) 
+  g. No estar a menos de 200 m de un ecosistema de manglar, ni a menos de 500 m de la línea de costa.
+  h. Elegir la zona de mayor tamaño,que cumplan los criterios anteriores. 
+
+## Modelo de geoprocesamiento
+
+![Modelo-ModelBuilder]()
+
+
 
