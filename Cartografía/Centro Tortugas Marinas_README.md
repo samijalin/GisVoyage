@@ -36,7 +36,15 @@ debe cumplir con las siguientes condiciones:
 
 ## Modelo de geoprocesamiento
 
+Se utilizón la herramienta Model Builder para automatizar la selección del área de interes según los criterios definidos previamente.
+
 ![Modelo-ModelBuilder](https://github.com/samijalin/GisVoyage/blob/main/Cartograf%C3%ADa/TortugasMarinas_ModelBuilder.jpg)
 
+## Salida Gráfica - Mapa
+
+En el siguiente mapa se resaltan las área potenciales para la construcción del centro de conservación de tortugas marinas, los ecosistemas marinos aledaños y el área de mayor tamaño. 
+Se muestran los ecosistemas marinos, debido a su importancia ecologica para el exito de la conservación de tortugas.
+Finalmente, el área de mayor tamaño consta de 31 Km2. 
+![Mapa-SeaTurtles] ()
 
 
